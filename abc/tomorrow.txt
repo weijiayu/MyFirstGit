@@ -1,0 +1,9 @@
+1、版本控制软件github
+2、看一下jbpm与OA视频，了解相关概念。及模块开发方法
+3、做学习计划
+4、继续研究蛋壳
+5、系统更新
+6、ssm环境搭建、maven环境搭建
+
+mybatis+springmvc+spring+easyui+js+jquery+ajax+mysql+html5
+办张交通银行的卡
